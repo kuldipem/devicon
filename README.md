@@ -2,7 +2,7 @@
 
 devicon aims to gather all logos representing development languages and tools.
 
-See [devicon.fr](http://devicon.fr) (not up to date, coming really soon!)
+See all available icons on the [project page](http://konpa.github.io/devicon/).
 
 #### Icon requests
 
@@ -14,7 +14,7 @@ _2 ways of using devicon:_
 
 #### SVG icons
 
-- Copy/paste svg code from [devicon](http://devicon.fr) (coming soon) or from svg file
+- Copy/paste svg code (from the [svg folder](https://github.com/konpa/devicon/tree/master/icons) or the [project page](http://konpa.github.io/devicon/) using your dev tool)
 
 ```html
 <!--  for git plain version -->
@@ -55,14 +55,14 @@ _2 ways of using devicon:_
   <!--  for git plain version with wordmark -->
   <i class="devicon-git-plain-wordmark"></i>
 
-  <!--  for git plain version colored with git main color (devicon-color.css required) -->
+  <!--  for git plain version colored with git main color (devicon-color.css or devicon.min.css required) -->
   <i class="devicon-git-plain colored"></i>
 
-  <!--  for git plain version with wordmark colored with git main color (devicon-color.css required) -->
+  <!--  for git plain version with wordmark colored with git main color (devicon-color.css or devicon.min.css required) -->
   <i class="devicon-git-plain-wordmark colored"></i>
 ```
 
-##### See devicon.json file for complete and up to date reference of icon's available versions.
+##### See the [devicon.json file](https://github.com/konpa/devicon/blob/master/devicon.json) or [the project page](http://konpa.github.io/devicon/) for complete and up to date reference of icon's available versions.
 
 ## Contribute
 
