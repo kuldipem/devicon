@@ -1,0 +1,15 @@
+{
+  "name": "devicon",
+  "version": "2.x",
+  "homepage": "https://github.com/kuldipem/devicon",
+  "authors": [
+    "KULDIP PIPALIYA <kuldipem@gmail.com>"
+  ],
+  "description": "the collection of programming language icon's collection.",
+  "main": "css/devicon.css, css/devicon-colors.css",
+  "keywords": [
+    "icon",
+    "fonts"
+  ],
+  "license": "MIT"
+}
